@@ -20,7 +20,7 @@
 
 本项目的所有开发步骤、设计思路和最佳实践，都已沉淀为一篇详尽的实战教程。
 
-**👉 [点击此处，在 prorise666.site 查看完整教程](https://prorise666.site)**
+**👉 [点击此处，在 prorise666.site 查看完整教程](https://prorise666.site/tags/%E5%89%8D%E7%AB%AF%E5%AE%9E%E6%88%98%E7%AF%87/)**
 
 ---
 
