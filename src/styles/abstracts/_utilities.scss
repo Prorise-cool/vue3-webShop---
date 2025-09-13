@@ -1,0 +1,19 @@
+// src/style/abstracts/_utilities.scss
+
+// 顶部滑入动画的关键帧
+@keyframes slideDown {
+  from {
+    transform: translateY(-100%);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+// 顶部滑入动画 extend (当sticky类被应用时触发滑入动画）
+%slide-down-animation {
+  // 应用滑入动画
+  animation: slideDown 0.3s linear forwards;
+}

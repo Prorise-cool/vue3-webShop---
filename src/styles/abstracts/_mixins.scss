@@ -1,0 +1,40 @@
+// src/styles/abstracts/_mixins.scss
+
+// Flexbox 快速居中
+@mixin flex-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+// 文本溢出截断
+@mixin truncate-text {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+// 热销产品组件中重复的遮罩样式
+@mixin product-mask {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  opacity: 0;
+  transition: all 0.4s ease-in-out;
+}
+
+// 产品信息文字样式（重复出现在多个地方）
+@mixin product-text-style($color: #111) {
+  font-size: 24px;
+  font-weight: 400;
+  color: $color;
+  text-align: center;
+  margin: 0;
+}

@@ -1,0 +1,25 @@
+// src/styles/element/_index.scss
+// 使用我们定义的变量来覆盖 Element Plus 的默认值
+
+// 导入变量
+@use "../abstracts/variables" as *;
+
+@forward "element-plus/theme-chalk/src/common/var.scss" with (
+  $colors: (
+    "primary": (
+      "base": $GLColor,
+    ),
+    "success": (
+      "base": $sucColor,
+    ),
+    "warning": (
+      "base": $warnColor,
+    ),
+    "danger": (
+      "base": $priceColor,
+    ),
+    "error": (
+      "base": $priceColor,
+    ),
+  )
+);

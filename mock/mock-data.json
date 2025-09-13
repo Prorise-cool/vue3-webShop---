@@ -1,0 +1,298 @@
+{
+  "categories": [
+    {
+      "id": "new",
+      "name": "新品",
+      "icon": "/src/assets/icons/icon-New-product.png",
+      "products": [
+        {
+          "id": 1,
+          "name": "自然又自在",
+          "desc": "格力·至尊 家居生活新中心",
+          "picture": "/images/new/product1.jpg",
+          "type": "large"
+        },
+        {
+          "id": 2,
+          "name": "循环风扇",
+          "desc": "臻品工艺 拂动盛夏",
+          "picture": "/images/new/product2.jpg",
+          "type": "normal"
+        },
+        {
+          "id": 3,
+          "name": "空气净化器",
+          "desc": "森林级空气管家",
+          "picture": "/images/new/product3.jpg",
+          "type": "normal"
+        },
+        {
+          "id": 4,
+          "name": "晶弘魔法冰箱",
+          "desc": "鲜嫩两星期 轻触一刀切",
+          "picture": "/images/new/product4.jpg",
+          "type": "wide"
+        },
+        {
+          "id": 5,
+          "name": "热泵洗衣机",
+          "desc": "37℃烘干不伤衣",
+          "picture": "/images/new/product5.jpg",
+          "type": "tall"
+        }
+      ]
+    },
+    {
+      "id": "home-air-conditioner",
+      "name": "家用空调",
+      "icon": "/src/assets/icons/icon_Air-Conditioner-02@2x.png",
+      "products": [
+        {
+          "id": 1,
+          "name": "家居的美学绅士",
+          "desc": "格力雨索系列，时光淬炼",
+          "picture": "/images/home-ac/product1.jpg",
+          "type": "large"
+        },
+        {
+          "id": 2,
+          "name": "格力·金眠空调",
+          "desc": "静享好眠 美梦甜甜",
+          "picture": "/images/home-ac/product2.jpg",
+          "type": "normal"
+        },
+        {
+          "id": 3,
+          "name": "格力·高温王空调",
+          "desc": "挑战65℃酷暑制冷不衰减",
+          "picture": "/images/home-ac/product3.jpg",
+          "type": "normal"
+        },
+        {
+          "id": 4,
+          "name": "格力艺术空调",
+          "desc": "科技美学 风华绝代",
+          "picture": "/images/home-ac/product4.jpg",
+          "type": "wide"
+        },
+        {
+          "id": 5,
+          "name": "格力新风空调",
+          "desc": "双向新风 恒氧新居",
+          "picture": "/images/home-ac/product5.jpg",
+          "type": "tall"
+        }
+      ]
+    },
+    {
+      "id": "central-air-conditioner",
+      "name": "中央空调",
+      "icon": "/src/assets/icons/icon_Home-central-air-conditioning-02@2x.png",
+      "products": [
+        {
+          "id": 1,
+          "name": "用电省一半",
+          "desc": "格力智睿新一代家庭中央空调",
+          "picture": "/images/central-ac/product1.jpg",
+          "type": "large"
+        },
+        {
+          "id": 2,
+          "name": "厨享",
+          "desc": "不沾油烟的空调",
+          "picture": "/images/central-ac/product2.jpg",
+          "type": "normal"
+        },
+        {
+          "id": 3,
+          "name": "寐享",
+          "desc": "地毯式制热,淋浴式制冷",
+          "picture": "/images/central-ac/product3.jpg",
+          "type": "normal"
+        },
+        {
+          "id": 4,
+          "name": "铂韵",
+          "desc": "低温制热温暖，高温制冷舒适",
+          "picture": "/images/central-ac/product4.jpg",
+          "type": "wide"
+        },
+        {
+          "id": 5,
+          "name": "舒睿",
+          "desc": "低温制热温暖，高温制冷舒爽",
+          "picture": "/images/central-ac/product5.jpg",
+          "type": "tall"
+        }
+      ]
+    },
+    {
+      "id": "home-appliances",
+      "name": "生活电器",
+      "icon": "/src/assets/icons/icon_home-devices-02@2x.png",
+      "products": [
+        {
+          "id": 1,
+          "name": "净云星抽油烟机",
+          "desc": "内腔6年免清洗",
+          "picture": "/images/appliances/product1.jpg",
+          "type": "large"
+        },
+        {
+          "id": 2,
+          "name": "循环扇",
+          "desc": "循环鲜风 全屋瞬爽",
+          "picture": "/images/appliances/product2.jpg",
+          "type": "normal"
+        },
+        {
+          "id": 3,
+          "name": "百香煲",
+          "desc": "地道柴火饭，香郁好滋味",
+          "picture": "/images/appliances/product3.jpg",
+          "type": "normal"
+        },
+        {
+          "id": 4,
+          "name": "嵌入式洗碗机",
+          "desc": "双效烘干，洁净一体",
+          "picture": "/images/appliances/product4.jpg",
+          "type": "wide"
+        },
+        {
+          "id": 5,
+          "name": "净化器",
+          "desc": "高效净化 畅享鲜氧",
+          "picture": "/images/appliances/product5.jpg",
+          "type": "tall"
+        }
+      ]
+    },
+    {
+      "id": "refrigerator",
+      "name": "冰箱",
+      "icon": "/src/assets/icons/icon_refrigerator-02@2x.png",
+      "products": [
+        {
+          "id": 1,
+          "name": "晶弘魔法冰箱",
+          "desc": "鲜嫩两星期，轻触一刀切",
+          "picture": "/images/refrigerator/product1.jpg",
+          "type": "large"
+        },
+        {
+          "id": 2,
+          "name": "十字养鲜系列",
+          "desc": "长效净味 干湿分储",
+          "picture": "/images/refrigerator/product2.jpg",
+          "type": "normal"
+        },
+        {
+          "id": 3,
+          "name": "无霜保鲜系列",
+          "desc": "无霜保鲜 鲜活原味",
+          "picture": "/images/refrigerator/product3.jpg",
+          "type": "normal"
+        },
+        {
+          "id": 4,
+          "name": "海蕴藏鲜系列",
+          "desc": "微晶-5℃，广域广净广鲜",
+          "picture": "/images/refrigerator/product4.jpg",
+          "type": "wide"
+        },
+        {
+          "id": 5,
+          "name": "独立储鲜系列",
+          "desc": "抽屉专储 原味保鲜",
+          "picture": "/images/refrigerator/product5.jpg",
+          "type": "tall"
+        }
+      ]
+    },
+    {
+      "id": "washing-machine",
+      "name": "洗衣机",
+      "icon": "/src/assets/icons/icon_washing-machine-02@2x.png",
+      "products": [
+        {
+          "id": 1,
+          "name": "格力净护洗衣机",
+          "desc": "洗衣 我想净静",
+          "picture": "/images/washer/product1.jpg",
+          "type": "large"
+        },
+        {
+          "id": 2,
+          "name": "共享洗衣机",
+          "desc": "扫码可用 洗烘生香",
+          "picture": "/images/washer/product2.jpg",
+          "type": "normal"
+        },
+        {
+          "id": 3,
+          "name": "净静洗衣机",
+          "desc": "净享洁净 静享生活",
+          "picture": "/images/washer/product3.jpg",
+          "type": "normal"
+        },
+        {
+          "id": 4,
+          "name": "净柔洗衣机",
+          "desc": "健康活水 柔护衣物",
+          "picture": "/images/washer/product4.jpg",
+          "type": "wide"
+        },
+        {
+          "id": 5,
+          "name": "热泵洗衣机",
+          "desc": "37℃烘干不伤衣",
+          "picture": "/images/washer/product5.jpg",
+          "type": "tall"
+        }
+      ]
+    },
+    {
+      "id": "water-heater",
+      "name": "热水器",
+      "icon": "/src/assets/icons/icon_Water-heater-02@2x.png",
+      "products": [
+        {
+          "id": 1,
+          "name": "24小时不间断热水供应",
+          "desc": "沐鑫空气能热水器",
+          "picture": "/images/heater/product1.jpg",
+          "type": "large"
+        },
+        {
+          "id": 2,
+          "name": "安沐星",
+          "desc": "安全沐浴守护星",
+          "picture": "/images/heater/product2.jpg",
+          "type": "normal"
+        },
+        {
+          "id": 3,
+          "name": "舒铂热水器",
+          "desc": "全能速热，舒心浴上",
+          "picture": "/images/heater/product3.jpg",
+          "type": "normal"
+        },
+        {
+          "id": 4,
+          "name": "舒沐享燃气热水器",
+          "desc": "四季舒享 恒温沐浴",
+          "picture": "/images/heater/product4.jpg",
+          "type": "wide"
+        },
+        {
+          "id": 5,
+          "name": "水之沁",
+          "desc": "高效节能，多重防护",
+          "picture": "/images/heater/product5.jpg",
+          "type": "tall"
+        }
+      ]
+    }
+  ]
+}

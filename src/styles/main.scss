@@ -1,0 +1,10 @@
+// src/styles/main.scss
+
+// 1. 第三方库: 如样式重置库
+@use "scss-reset";
+
+// 2. 基础层: HTML 元素的全局样式
+@use "base";
+
+// 3. 框架覆盖层: 对 Element Plus 的样式定制
+@use "element";
